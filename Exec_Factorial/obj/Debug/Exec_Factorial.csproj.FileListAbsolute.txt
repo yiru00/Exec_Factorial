@@ -1,0 +1,8 @@
+D:\Exec\Exec_Factorial\Exec_Factorial\bin\Debug\Exec_Factorial.exe.config
+D:\Exec\Exec_Factorial\Exec_Factorial\bin\Debug\Exec_Factorial.exe
+D:\Exec\Exec_Factorial\Exec_Factorial\bin\Debug\Exec_Factorial.pdb
+D:\Exec\Exec_Factorial\Exec_Factorial\obj\Debug\Exec_Factorial.csproj.AssemblyReference.cache
+D:\Exec\Exec_Factorial\Exec_Factorial\obj\Debug\Exec_Factorial.csproj.SuggestedBindingRedirects.cache
+D:\Exec\Exec_Factorial\Exec_Factorial\obj\Debug\Exec_Factorial.csproj.CoreCompileInputs.cache
+D:\Exec\Exec_Factorial\Exec_Factorial\obj\Debug\Exec_Factorial.exe
+D:\Exec\Exec_Factorial\Exec_Factorial\obj\Debug\Exec_Factorial.pdb
